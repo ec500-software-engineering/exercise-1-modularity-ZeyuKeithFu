@@ -1,7 +1,7 @@
 # exercise-1-modularity
 ## System diagram
 Credit to [Miguel Mark](https://github.com/mmark9/ec500_spring19_misc)
-![](https://github.com/mmark9/ec500_spring19_misc/blob/master/ec500_heart_monitor_diagram.png)
+![](https://github.com/mmark9/ec500_spring19_misc/blob/master/heart_monitor/ec500_heart_monitor_class_diagram.png)
 
 ## Usage
 By running ```main.py```, the health monitor system will start working and display the following messages.
